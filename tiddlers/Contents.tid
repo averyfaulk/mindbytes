@@ -1,0 +1,12 @@
+caption: Contents
+color: #808080
+created: 20240928064938749
+list-after: $:/core/ui/SideBar/Open
+modified: 20240928075111339
+tags: $:/tags/SideBar
+title: Contents
+type: text/vnd.tiddlywiki
+
+<div class="tc-contents">
+<<toc-selective-expandable 'Contents'>>
+</div>
